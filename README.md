@@ -8,4 +8,4 @@
 ## For Client
 * Fork repository
 * Inside Atom Puzzler folder open up room_settings.ini file
-* Follow instructions [here](https://github.com/soft-eng-practicum/AtomPuzzler/wiki/Client-Documentation) on how to change room elements
+* Follow instructions [here](https://github.com/jlam1/AtomPuzzlerPages/wiki/Changing-room(level)-elements) on how to change room elements
